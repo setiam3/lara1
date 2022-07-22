@@ -10,7 +10,6 @@
 @endsection
 @section('content')
 
-
     <!-- Begin page -->
     <div class="layout-wrapper landing">
         <nav class="navbar navbar-expand-lg navbar-landing fixed-top" id="navbar">

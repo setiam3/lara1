@@ -7,6 +7,8 @@
     "require": {
         "php": "^8.0.2",
         "backpack/crud": "^5.2",
+        "backpack/menucrud": "^3.0",
+        "backpack/permissionmanager": "^6.0",
         "doctrine/dbal": "~2.3",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
@@ -17,6 +19,7 @@
     },
     "require-dev": {
         "backpack/generators": "^3.1",
+        "barryvdh/laravel-debugbar": "^3.7",
         "fakerphp/faker": "^1.9.1",
         "laracasts/generators": "^2.0",
         "laravel/sail": "^1.0.1",
